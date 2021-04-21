@@ -24,7 +24,11 @@ firebase deploy
 npm run lint
 ```
 
-
+### Login Credentials
+```
+Email : sam@bloggs.com
+Password : secret
+```
 
 ### Customize configuration
 See [Configuration Reference](https://cli.vuejs.org/config/).
